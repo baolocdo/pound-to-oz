@@ -1,7 +1,7 @@
 {
   "private": true,
   "version": "0.0.0",
-  "name": "triangle-area",
+  "name": "pound-to-oz",
   "devDependencies": {
     "@babel/core": "*",
     "@babel/preset-env": "*",
